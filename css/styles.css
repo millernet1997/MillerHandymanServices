@@ -88,8 +88,8 @@ nav {
 }
 
 .hero-logo {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     margin: 0 auto 2rem;
     display: flex;
     align-items: center;
@@ -596,8 +596,8 @@ footer p {
     }
 
     .hero-logo {
-        width: 100px;
-        height: 100px;
+        width: 130px;
+        height: 130px;
     }
     
     .services h2, .contact-info h2, .gallery h2 {
